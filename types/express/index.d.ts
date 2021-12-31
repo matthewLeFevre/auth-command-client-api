@@ -6,7 +6,7 @@ declare global {
     interface Request {
       auth: AuthCommandSDK;
       collections: {
-        "user-accounts": Collection;
+        accounts: Collection;
       };
     }
   }
