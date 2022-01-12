@@ -25,6 +25,7 @@ async function create(req: Request, res) {
   const account: any = await req.collections.accounts.createWithId(
     {
       name,
+      accountIds: [],
       address: {
         line1,
         line2,

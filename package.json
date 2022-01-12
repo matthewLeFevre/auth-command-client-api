@@ -8,6 +8,8 @@
     "@auth-command/auth-command-sdk": "C:/Users/matth/Documents/GitHub/auth-command-sdk",
     "@everlast-brands/collection": "^2.2.1",
     "@everlast-brands/error-handling": "^0.1.0",
+    "@everlast-brands/secure-jwt": "^1.0.0",
+    "axios": "^0.24.0",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
